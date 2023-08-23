@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Bienvenido a mi GitHub // Welcome to my GitHub 👋
+ Hola a todos // Hello to all
 <!--
 **FranaGan5/FranaGan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
