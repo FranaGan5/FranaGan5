@@ -1,5 +1,5 @@
-<p align="center"> ### Bienvenido a mi GitHub // Welcome to my GitHub 👋
-<p align="center">  Primer proyecto web realizado para una agencia de viajes con HTML Y CSS. :computer: :art: </p>
+<p align="center"> # Bienvenido a mi GitHub // Welcome to my GitHub 👋 </p>
+<p align="center">  Hola a todos // Hello to all :computer: :smile: </p>
 <!--
 **FranaGan5/FranaGan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
