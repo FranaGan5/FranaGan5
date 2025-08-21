@@ -1,7 +1,6 @@
 # <p align="center"> ¡Bienvenido!</p>
 <p align="center"> Hola :wave: </p>
-<p align="center"> Mi nombre es Francisco</p>
- <p align="center"> Mi nombre es Francisco y soy desarrollador de aplicaciones móviles con experiencia en entornos nativos iOS (Swift) y Android (Kotlin), enfocado en la escritura de código limpio, mantenible y orientado a buenas prácticas.</p>
+ <p align="center"> Mi nombre es Francisco, actualmente soy desarrollador de aplicaciones móviles con experiencia en entornos nativos iOS (Swift) y Android (Kotlin). Como desarrollador de software, me esfuerzo por escribir código que sea tan claro como funcional. Me enfoco en las buenas prácticas como el principio SOLID, el desarrollo guiado por pruebas (TDD) y la refactorización constante.</p>
  <p align="center"> 
 <!--
 **FranaGan5/FranaGan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
