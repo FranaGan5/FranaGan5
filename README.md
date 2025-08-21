@@ -1,7 +1,7 @@
-# <p align="center"> Bienvenido a mi GitHub // Welcome to my GitHub 👋 </p>
-<p align="center">  Hola a todos // Hello everyone :computer: :smile: </p>
-<p align="center">Mi nombre es Francisco// My name is Francisco</p>
- <p align="center"> Actualmente mi formación está enfocada en el desarrollo de aplicaciones en iOS y Android. //Currently my training is focused on software and mobile developement</p>
+# <p align="center"> Bienvenido a mi GitHub</p>
+<p align="center"> Hola a todos</p>
+<p align="center"> Mi nombre es Francisco</p>
+ <p align="center"> Mi nombre es Francisco y soy desarrollador de aplicaciones móviles con experiencia en entornos nativos iOS (Swift) y Android (Kotlin), enfocado en la escritura de código limpio, mantenible y orientado a buenas prácticas.</p>
  <p align="center"> 
 <!--
 **FranaGan5/FranaGan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
